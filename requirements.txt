@@ -1,0 +1,8 @@
+os
+numpy
+flask
+torch
+shutil
+pillow
+faiss-cpu
+torchvision
